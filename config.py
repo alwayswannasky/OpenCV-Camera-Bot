@@ -1,2 +1,1 @@
-TOKEN = 'Telegram Bot Token'
-
+TOKEN = 'Telegram Bot Token' # Token, который выдает BotFather в Telegram
